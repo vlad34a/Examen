@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vlad/eim/Examen/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/vlad/.android/build-cache/3d95869637a2b9ea342be3364d1fc536ea739fd5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Examen/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vlad/.android/build-cache/3d95869637a2b9ea342be3364d1fc536ea739fd5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Examen/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vlad/.android/build-cache/3d95869637a2b9ea342be3364d1fc536ea739fd5/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/vlad/eim/Examen/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vlad/.android/build-cache/3d95869637a2b9ea342be3364d1fc536ea739fd5/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

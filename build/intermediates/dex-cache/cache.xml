@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vlad/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.2/64950d33e2d3095cc831b414063bea45524103d4/httpclient-4.4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="/home/vlad/eim/Examen/app/build/intermediates/pre-dexed/debug/httpclient-4.4.1.2_f40de871bc70d5fcacfac7cbcf86f599d983d096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vlad/eim/Examen/jsoup-1.10.2/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/home/vlad/eim/Examen/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_daa52a084c631f4577dec9562fea8de950e73b2b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vlad/eim/Examen/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/vlad/eim/Examen/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vlad/eim/Examen/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/vlad/eim/Examen/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
